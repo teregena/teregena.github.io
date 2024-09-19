@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://teregena.github.io/sitemap.html.gz
+Sitemap: https://teregena.github.io/app/sitemap.html.gz
+Sitemap: https://teregena.github.io/assets/sitemap.html.gz
+Sitemap: https://teregena.github.io/css/sitemap.html.gz
+Sitemap: https://teregena.github.io/includes/sitemap.html.gz
+Sitemap: https://teregena.github.io/item/sitemap.html.gz
+Sitemap: https://teregena.github.io/src/sitemap.html.gz
